@@ -3,4 +3,4 @@ A crowd algorithm that maintains the shape of a pie chart circle no matter how m
 
 - Mainly focused on recursion and trigonometry functions.
 
- ![ Alt text](https://media.giphy.com/media/1ZUCyswCEXXPQtyCfk/giphy-downsized-large.gif)
+ ![ Alt text](https://media.giphy.com/media/35ToemAHinxEAbKRU2/giphy-downsized-large.gif)
